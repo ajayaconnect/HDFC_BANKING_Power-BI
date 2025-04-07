@@ -2,7 +2,7 @@
 # **🌟HDFC Banking Analytics Dashboard 🌟**
 
 [➡ **View the Dashboard Here**]([https://yourdashboardlink.com](https://github.com/ajayaconnect/HDFC_BANKING/blob/51bfedb59523b6cf1e1b38a06601b3d653b25c6b/Summary.png))  
-
+![Indigo Airline Logo]([https://seekvectorlogo.com/wp-content/uploads/2022/01/indigo-vector-logo-2022-small.png](https://brandfetch.com/hdfc.com?view=library&library=default&collection=logos&asset=idca3-DO88))
 ---
 
 ## **📊 Project Overview**  
