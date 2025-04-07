@@ -1,7 +1,7 @@
 
 # **🌟HDFC Banking Analytics Dashboard 🌟**
 
-[➡ **View the Dashboard Here**]((https://github.com/ajayaconnect/HDFC_BANKING/blob/51bfedb59523b6cf1e1b38a06601b3d653b25c6b/Summary.png))  
+[➡ **View the Dashboard Here**](https://github.com/ajayaconnect/HDFC_BANKING/blob/51bfedb59523b6cf1e1b38a06601b3d653b25c6b/Summary.png)
 
 ---
 
