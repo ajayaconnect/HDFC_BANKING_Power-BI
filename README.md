@@ -1,8 +1,5 @@
-Certainly! Here's a styled and enhanced version of the README file for your GitHub repository, incorporating effects, designs, and a dashboard link.
 
----
-
-# **🌟 Banking Analytics Dashboard 🌟**
+# **🌟HDFC Banking Analytics Dashboard 🌟**
 
 [➡ **View the Dashboard Here**](https://yourdashboardlink.com)  
 
