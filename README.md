@@ -1,8 +1,8 @@
 
 # **🌟HDFC Banking Analytics Dashboard 🌟**
 
-[➡ **View the Dashboard Here**](https://yourdashboardlink.com)  
-https://github.com/ajayaconnect/HDFC_BANKING/blob/5d5b39bb8119cd55e9025c934093ddfa6203254b/HDFC%20Bank_idca3-DO88_0.png
+[➡ **View the Dashboard Here**]([https://yourdashboardlink.com](https://github.com/ajayaconnect/HDFC_BANKING/blob/51bfedb59523b6cf1e1b38a06601b3d653b25c6b/Summary.png))  
+
 ---
 
 ## **📊 Project Overview**  
