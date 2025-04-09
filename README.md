@@ -1,7 +1,7 @@
 
 # **🌟HDFC Banking Analytics Dashboard 🌟**
 
-[HDFC LOGO](https://github.com/ajayaconnect/HDFC_BANKING_Power-BI/blob/8a64708f052ba3b5f1d88e8ceb49dfccd88e039d/HDFC%20Bank_idca3-DO88_0.png)
+![Blue Dart](https://github.com/ajayaconnect/HDFC_BANKING_Power-BI/blob/8a64708f052ba3b5f1d88e8ceb49dfccd88e039d/HDFC%20Bank_idca3-DO88_0.png)
 
 
 [➡ **View the Dashboard Here**](https://github.com/ajayaconnect/HDFC_BANKING/blob/51bfedb59523b6cf1e1b38a06601b3d653b25c6b/Summary.png)
