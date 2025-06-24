@@ -27,7 +27,7 @@ Unlocking financial insights through data! This project leverages **Power BI** t
 ## **📈 Key Insights**  
 
 ### **🕒 Customer Transaction Behavior**  
-- **Peak Times**: Transactions peak during afternoons (12:00–17:00).  
+- **Peak Times**: Transactions peak during early morning (0–9:00).  
 - **High-Value Transactions**: Significant transactions identified for risk and reward analysis.  
 
 ### **💳 Customer Profiles**  
