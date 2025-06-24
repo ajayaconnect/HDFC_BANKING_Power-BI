@@ -36,8 +36,8 @@ Unlocking financial insights through data! This project leverages **Power BI** t
 
 ### **💸 Financial Insights**  
 - **Balances vs. Loans**:  
-   - Total Loan Amount: ₹14.87M  
-   - Total Balances: ₹14.20M  
+   - Total Loan Amount: ₹21.36M  
+   - Total Balances: ₹20.51M  
 - **Loan Risk**: High-risk accounts dominate, requiring targeted risk mitigation strategies.  
 
 ### **🏦 Branch Performance**  
